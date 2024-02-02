@@ -57,6 +57,80 @@
 }
 
 
+/* estilos de cada tipo */
+.grass {
+    background-color: #78c850;
+}
+
+.fire {
+    background-color: #f05030;
+}
+
+.flying {
+    background-color: #a890f0;
+}
+
+.water {
+    background-color: #6890f0;
+}
+
+.bug {
+    background-color: #a8b820;
+}
+
+.electric {
+    background-color: #f8d030;
+}
+
+.psychic {
+    background-color: #f85888;
+}
+
+.ice {
+    background-color: #98d8d8;
+}
+
+.dragon {
+    background-color: #7038f8;
+}
+
+.dark {
+    background-color: #705848;
+}
+
+.poison {
+    background-color: #a040a0;
+}
+
+.ground {
+    background-color: #e0c068;
+}
+
+.normal {
+    background-color: #a8a878;
+}
+
+.fairy {
+    background-color: #f855ba;
+}
+
+.fighting {
+    background-color: #903028;
+}
+
+.rock {
+    background-color: #b8a038;
+}
+
+.ghost {
+    background-color: #705898;
+}
+
+.steel {
+    background-color: #b8b8d0;
+}
+
+
 
 @media screen and (min-width: 380px) {
     .pokemons {
