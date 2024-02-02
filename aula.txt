@@ -1,0 +1,26 @@
+Requisição HTTP
+
+URL: https://pokeapi.co/api/v2/pokemon/${id}
+    ${endereço}/${path = caminho de identificação do recurso}
+
+Request Method: GET | POST | PUT | DELETE    
+
+- A primeira área de transferência de dados é o próprio path;
+- A segunda área é a query string (descrição de busca);
+ex: https://pokeapi.co/api/v2/pokemon?type=grass&name=1
+type = grass
+name = 1
+
+Request Heades
+    Configuração da API
+   ex: accept-language: linguas aceitas
+        Authorization: autenticação
+
+Response Headers
+    Confirguração da API
+
+Body
+    é o corpo da requisição onde podem ser enviados dados.(POST, PUT, path)
+
+    ex:
+       
